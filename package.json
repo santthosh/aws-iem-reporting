@@ -1,0 +1,32 @@
+{
+  "name": "aws-iem-reporting",
+  "version": "1.0.0",
+  "description": "Generates list of AWS resources by region to support preparation AWS Infrastructure Event Management workbook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santthosh/aws-iem-reporting.git"
+  },
+  "keywords": [
+    "aws",
+    "iem",
+    "Infrastructure",
+    "Event",
+    "Management",
+    "Report"
+  ],
+  "author": "santthosh",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/santthosh/aws-iem-reporting/issues"
+  },
+  "homepage": "https://github.com/santthosh/aws-iem-reporting#readme",
+  "dependencies": {
+    "aws-sdk": "^2.682.0",
+    "colors": "^1.4.0",
+    "json2csv": "^5.0.1"
+  }
+}
