@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/santthosh/aws-iem-reporting#readme",
   "dependencies": {
-    "aws-sdk": "^2.682.0",
+    "aws-sdk": "^2.814.0",
     "colors": "^1.4.0",
     "json2csv": "^5.0.1"
   }
